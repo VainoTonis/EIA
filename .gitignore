@@ -6,3 +6,4 @@ logs/*
 
 # Configuration files
 poetry.lock
+.venv/
